@@ -1,6 +1,6 @@
 aiosqlite==0.13.0
 click==7.1.2
-fastapi==0.56.0
+fastapi==0.65.2
 h11==0.9.0
 httptools==0.1.1
 iso8601==0.1.12
